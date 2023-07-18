@@ -1,5 +1,7 @@
 # Hey, I'm Matt 👋
 
+I'm a data nerd who likes to utilize Python and other tools to create cool data solutions.
+Check out my data blog (https://mjdata.netlify.app) to see what else I've been working on. 
 <br />
 
 ### Languages and Tools:
